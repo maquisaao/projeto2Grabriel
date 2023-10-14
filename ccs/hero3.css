@@ -1,0 +1,127 @@
+
+.hero3 {
+    display: flex;
+    flex-direction: column;
+}
+
+.hero3 h1 {
+    color: #3e58d1;
+    text-align: center;
+}
+
+.blocos {
+    display: flex;
+    flex-direction: column;
+}
+
+.blocoverde {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.blocoazul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.blocolaranja {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+.contentblock1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.contentblock1 h4 {
+    margin-top: 0;
+    color: green;
+}
+.contentblock1 p {
+    margin-top: 0;
+    font-size: 14px;
+}
+.contentblock1 button {
+    color: green;
+    background: none;
+    border-color: green;
+    border: solid 1px;
+    padding: 8px;
+}
+.contentblock2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.contentblock2 h4 {
+    margin-top: 0;
+    color: blue;
+}
+.contentblock2 p {
+    margin-top: 0;
+    font-size: 14px;
+}
+.contentblock2 button {
+    color: blue;
+    background: none;
+    border-color: blue;
+    border: solid 1px;
+    padding: 8px;
+}
+
+.contentblock3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.contentblock3 h4 {
+    margin-top: 0;
+    color: #b07915;
+}
+.contentblock3 p {
+    margin-top: 0;
+    font-size: 14px;
+}
+.contentblock3 button {
+    color: #b07915;
+    background: none;
+    border-color: #b07915;
+    border: solid 1px;
+    padding: 8px;
+}
+.maozinha {
+    background-color: green;
+    border-radius: 50%;
+    display: flex;
+    padding: 11px;
+    width: 45px;
+    height: 41px;
+}
+
+.escudo {
+    background-color: blue;
+    border-radius: 58%;
+    display: flex;
+    padding: 13px;
+    width: 45px;
+    height: 51px;
+}
+
+.computador {
+    background-color: #b07915;
+    border-radius: 58%;
+    display: flex;
+    padding: 16px;
+    width: 48px;
+    height: 39px;
+}
+
+
+
+hr {
+    color: gray;
+    width: 100%;
+}
