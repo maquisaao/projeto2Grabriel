@@ -1,3 +1,23 @@
-.menu {
-    background-color: blue;
+.cabecalho {
+    background-color: rgb(65, 112, 239);
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    list-style-type: none;
+    align-items: center;
+}
+.cabecalho ul li {
+    list-style-type: none;
+}
+
+.cabecalho img {
+    width: 42px;
+    height: 50px;
+}
+
+.butao {
+    color: white;
+    background-color: black;
+    border: none;
+    padding: 7px;
 }
